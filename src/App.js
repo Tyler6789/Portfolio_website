@@ -7,7 +7,6 @@ function App() {
   return (
     <IonApp>
       <IonHeader>
-        
       </IonHeader>
       <IonContent className="ion-padding">
       </IonContent>
